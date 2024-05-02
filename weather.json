@@ -1,0 +1,24 @@
+{
+  "ukraine": {
+    "kyiv": [
+      "Monday: Sunny, 5C",
+      "Tuesday: Cloudy, 6C",
+      "Wednesday: Rain, 8C",
+      "Thursday: Sunny, 12C",
+      "Friday: Snow, -1C",
+      "Saturday: Sunny, 2C",
+      "Sunday: Rain, 5C"
+    ]
+  },
+  "usa": {
+    "new york": [
+      "Monday: Sunny, 10C",
+      "Tuesday: Rain, 12C",
+      "Wednesday: Cloudy, 7C",
+      "Thursday: Snow, -2C",
+      "Friday: Sunny, 5C",
+      "Saturday: Cloudy, 3C",
+      "Sunday: Rain, 2C"
+    ]
+  }
+}
